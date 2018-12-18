@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+}
+.container {
+    width: 700px;
+    height: 400px;
+    margin: 20vh auto;
+    background-color: #EFD6D2;
+    box-shadow: 0 20px 20px 0px;
+}
+.header {
+    height: 15%;
+    background-color: #FF9800;
+    text-align: center;
+    position:relative;
+  }
+#search-btn {
+    color: green;
+}
+#search-txt {
+  color: red;
+  height:30px;
+  border-radius: 10px;
+  border-style:none;
+  outline:none;
+  padding-right:1px;
+  padding-left:1px;
+  text-align:center;
+}
